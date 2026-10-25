@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\2V5\2v5-voltage-regulator.net
+Start Time: Sun Oct 25 15:18:32 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.061 seconds.
+Total iterations: 253
+
+Files loaded:
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\2V5\2v5-voltage-regulator.net
+C:\Users\Mert\AppData\Local\LTspice\lib\cmp\standard.bjt
+
