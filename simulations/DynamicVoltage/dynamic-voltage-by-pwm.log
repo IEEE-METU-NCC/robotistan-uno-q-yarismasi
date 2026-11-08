@@ -1,7 +1,7 @@
 LTspice 26.1.1 for Windows
-Circuit: C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net
-Start Time: Sun Oct 25 14:57:36 2026
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+Circuit: C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net
+Start Time: Sun Oct 25 17:55:07 2026
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -15,7 +15,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -24,7 +24,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -33,7 +33,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -42,7 +42,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -51,7 +51,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -60,7 +60,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -69,7 +69,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -78,7 +78,7 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net(13): This pin name equals one of the port names of the sub-circuit, but at a different position. This is not a problem, but note that as a result none of the pin names may be used by any .meas expressions.
 X§U4 N002 N007 P002 T2N7002AK_G0_00 ;§pnba 3)1)2
                                            ^
 
@@ -87,13 +87,13 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 10.794 seconds.
+Total elapsed time: 10.798 seconds.
 Total iterations: 35625
 
 Files loaded:
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\dynamic-voltage-by-pwm.net
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\dynamic-voltage-by-pwm.net
 C:\Users\Mert\AppData\Local\LTspice\lib\cmp\standard.bjt
-C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\LM741.lib
+C:\Users\Mert\Documents\Github\robotistan-uno-q-yarismasi\simulations\DynamicVoltage\LM741.lib
 C:\Users\Mert\AppData\Local\LTspice\lib\sub\4N25.sub
 C:\Users\Mert\AppData\Local\LTspice\lib\sub\Contrib\Toshiba\LVMOS\T2N7002AK_G0_00_enc.lib
 
